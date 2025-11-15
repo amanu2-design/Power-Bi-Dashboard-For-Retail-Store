@@ -1,7 +1,9 @@
 # Multinational Retail Store Data Analysis [Interactive Dashboard Creation Using Microsoft Power BI]
 
-##Project Objectives
+https://app.powerbi.com/view?r=eyJrIjoiZGYzM2M5ZmUtYTdmNi00MWQ5LWIxNWQtZmI1YzcxYmFiNjQxIiwidCI6IjQzZjc5MDgyLTRlNTgtNDY2Yi1iZGJjLTIxZDFhNTQwYzQ1MCJ9
 
+
+## Project Objectives
 The Retail store managements want to know the annual sales Report of 2025 for all nations Stores. So that they may have clear insight for better decision to increase sales and to implement different Strategy or reinforce the one they were using.
 ##Dataset used 
 Multinational retail store data from 6 countries (US,UK,Canada,Chain,Nigeria and india)
@@ -11,17 +13,14 @@ Files
 https://github.com/amanu2-design/Power-Bi-Dashboard-For-Retail-Store/blob/ffa52ddaaecf55ac587f4983e773af55406244e5/Sales_master_data.csv
 
 
-##KPIs
-
-
+## KPIs
 What are the total sales and Total profit of 2025?
 What was the Total discount applied.
 How were Monthly and daily Trend of Sales?
 Which payment mated used more?
 Sales across Geography and Category?
 
-##Process
-
+## Process
 Data Verification for missing Values and anomalies.
 Cleaning Data type, format and Values.
 Create measures on power bi according to KPIs
