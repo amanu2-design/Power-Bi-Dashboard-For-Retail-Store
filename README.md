@@ -27,13 +27,12 @@ Create measures on power bi according to KPIs
 Create appropriate Visuals for each measures
 Merge Visuals on Dashboard
 
-##Dashboard
+## Dashboard
 
 <img width="796" height="452" alt="Dashboard" src="https://github.com/user-attachments/assets/34c7cde3-0803-46cd-baed-ec9484e83110" />
 
 
-##Project Insight
-
+## Project Insight
 Total sales were 4.14 mil which earn 3.54 mil Total profit.
 The total discount applied was 76.69 k
 The top highest sales was on December, January, and Mid-July, while June, August and November appear to have lowest sales’
@@ -41,7 +40,6 @@ Monday, Wednesday and Sunday are high sale days while Tuesday and Friday a have 
 Mobile and credit card payment used respectively more than cash.
 Home & Kitchen, Clothing’s and electronics has the top 3 category respectively
 
-##Recommendation
-
+## Recommendation
 Increasing human power in high sales months and days. Facilitating Mobil payme
 nts options while increasing the top 3 categories  
